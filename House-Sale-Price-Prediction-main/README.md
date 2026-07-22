@@ -117,17 +117,3 @@ The dataset includes 80 features (81 in training data) covering various aspects 
    streamlit run src/app.py
    ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-# Author
-
-`Rasmo Wanyama`
-
-`Data Analyst/Data Scientist`
-
-Let's connect on LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmo-/) 
