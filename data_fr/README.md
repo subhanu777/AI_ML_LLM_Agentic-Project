@@ -17,7 +17,7 @@ The trained image classification model achieved the following performance metric
 These metrics indicate that the model exhibits high precision and recall, with an overall accuracy of 91.32% in classifying real and AI-generated images.
 
 ## Dataset
-
+Download the data from:  https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
 The dataset used for training and evaluation consists of two categories of images:
 
 - **REAL images**: These images are sourced from the Krizhevsky & Hinton's CIFAR-10 dataset, which is a widely-used benchmark dataset for image classification tasks.
